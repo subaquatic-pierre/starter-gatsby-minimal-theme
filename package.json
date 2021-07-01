@@ -1,0 +1,63 @@
+{
+  "name": "blinkbeautystore",
+  "version": "1.0.0",
+  "private": true,
+  "description": "blinkbeautystore",
+  "keywords": [
+    "gatsby"
+  ],
+  "author": "subaquatic-pierre",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.1.3",
+    "@emotion/react": "^11.1.5",
+    "@emotion/styled": "^11.3.0",
+    "@iconify/icons-ant-design": "^1.1.0",
+    "@iconify/icons-eva": "^1.1.0",
+    "@iconify/icons-ic": "^1.1.6",
+    "@iconify/icons-vscode-icons": "^1.1.5",
+    "@iconify/react": "^1.1.4",
+    "@material-ui/core": "^5.0.0-alpha.30",
+    "@material-ui/icons": "^5.0.0-alpha.28",
+    "@material-ui/lab": "^5.0.0-alpha.30",
+    "@material-ui/system": "^5.0.0-alpha.29",
+    "@material-ui/utils": "^5.0.0-alpha.29",
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "@types/react-helmet": "^6.1.1",
+    "framer-motion": "^4.1.17",
+    "gatsby": "^3.6.2",
+    "gatsby-plugin-gatsby-cloud": "^2.8.1",
+    "gatsby-plugin-google-analytics": "^3.8.0",
+    "gatsby-plugin-image": "^1.8.0",
+    "gatsby-plugin-manifest": "^3.8.0",
+    "gatsby-plugin-material-ui": "^3.0.1",
+    "gatsby-plugin-mdx": "^2.8.0",
+    "gatsby-plugin-react-helmet": "^4.8.0",
+    "gatsby-plugin-sharp": "^3.8.0",
+    "gatsby-plugin-sitemap": "^4.4.0",
+    "gatsby-remark-copy-linked-files": "^4.5.0",
+    "gatsby-remark-images": "^5.5.0",
+    "gatsby-remark-prismjs": "^5.5.0",
+    "gatsby-remark-responsive-iframe": "^4.5.0",
+    "gatsby-remark-smartypants": "^4.5.0",
+    "gatsby-source-filesystem": "^3.8.0",
+    "gatsby-transformer-remark": "^4.5.0",
+    "gatsby-transformer-sharp": "^3.8.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-intersection-observer": "^8.32.0",
+    "react-scroll": "^1.8.2"
+  },
+  "devDependencies": {
+    "@types/react-scroll": "^1.8.2",
+    "@types/styled-components": "^5.1.10"
+  }
+}
